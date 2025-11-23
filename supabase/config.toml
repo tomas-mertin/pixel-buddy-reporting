@@ -1,0 +1,7 @@
+project_id = "uzzikuinsxattkvphthm"
+
+[functions.submit-test-results]
+verify_jwt = false
+
+[functions.submit-test-results-with-images]
+verify_jwt = false
